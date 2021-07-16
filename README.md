@@ -12,7 +12,7 @@
 - ✉️ Contact : [chromis07@gmail.com](chromis07@gmail.com)  
   
 
-- ⚡ Fun fact: I used to be majoring in Architect  
+- ⚡ Fun fact: I used to be majoring in Architecture  
   
 
 <br/>  
