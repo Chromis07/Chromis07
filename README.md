@@ -36,6 +36,7 @@ Thank you for taking time to view my GitHub Profile
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.github.com/Chromis07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+</hr>
 [Gmail](chromis07@gmail.com)
 
 
