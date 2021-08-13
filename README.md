@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="80%" height = "480px" src="https://techraptor.net/sites/default/files/styles/image_header/public/2019-10/Pokemon%20Ruby%20and%20Sapphire%20End%20Screen.jpg?itok=oFjP-gwu" alt="cover" />
+<img width="60%" height = "400px" src="https://techraptor.net/sites/default/files/styles/image_header/public/2019-10/Pokemon%20Ruby%20and%20Sapphire%20End%20Screen.jpg?itok=oFjP-gwu" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
